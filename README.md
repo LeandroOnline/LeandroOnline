@@ -22,7 +22,7 @@ Currently I specialize in Front end, in handling technologies such as HTML, CSS,
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-<a href="https://www.notion.so/es-es" target="_blank"><img width="40px"><img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png?f=webp&w=128"/></a>
+<a href="https://www.notion.so/es-es" target="_blank"><img width="20px"><img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png?f=webp&w=128"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
