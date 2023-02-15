@@ -1,8 +1,8 @@
 ## <div align="center">Leandro Savat</div>
 <div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
-Programming is a path that allows me to unleash creativity, organize thoughts and work as a team. That is why I dedicate myself to being a web developer, since this work enhances my personal progress and this is what I am passionate about.
-Currently I specialize in Front end, in handling technologies such as HTML, CSS, Javascript, React, Redux.
+Desde los 11 años trabajé en la empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante mi viaje, conocí a programadores que avivaron mi interés por trabajar y conectarme con el mundo en línea. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
+Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.
 
 <br/>
 
