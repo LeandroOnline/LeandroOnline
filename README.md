@@ -1,4 +1,4 @@
-<img src="https://www.eshci.com/assets/img/GIF/collaboration.gif" aling="center">
+<img src="https://www.eshci.com/assets/img/GIF/collaboration.gif" align="center" height= "400px">
 
 ## <div align="center">Leandro Savat</div>
 
