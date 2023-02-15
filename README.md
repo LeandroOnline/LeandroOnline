@@ -21,7 +21,7 @@ Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, Java
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
-<a href="https://www.notion.so/es-es" target="_blank"><img width="10px" src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png?f=webp&w=128"/></a>
+<a href="https://www.notion.so/es-es" target="_blank"><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png?f=webp&w=128"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
