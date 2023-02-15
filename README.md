@@ -1,27 +1,4 @@
-<head>
-	
-		 <!-- Metas -->
-        <meta charset="utf-8">
-        <title>THE BOOK - PERSONAL VCARD HTML TEMPLATE</title>
-        <meta name="description" content="">
-      	<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta content="telephone=no" name="format-detection">
 
-		<!-- Css -->
-        <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
-		<link href="css/base.css" rel="stylesheet" type="text/css" media="all">
-		<link href="css/main.css" rel="stylesheet" type="text/css" media="all">
-        <link href="css/owl-carousel/owl.carousel.css" rel="stylesheet" media="all">
-		<link href="css/owl-carousel/owl.theme.css" rel="stylesheet" media="all">
-		<link href="css/magnific-popup.css" type="text/css" rel="stylesheet" media="all">
-		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,400italic,300,600%7CRoboto+Slab:400,300,700" rel="stylesheet" type="text/css">
-		<link href="css/fontello.css" rel="stylesheet" type="text/css" media="all">
-
-    <script id="instafeed-fetcher" src="https://api.instagram.com/v1/users/8622487563/media/recent?access_token=8622487563.239aaa2.9a0babde2b4247bfbcaf2fe06a55622e&amp;count=5&amp;callback=instafeedCache5bee87b7dfb610bb.parse"></script><style type="text/css">@font-face { font-family: Roboto; src: url("chrome-extension://mcgbeeipkmelnpldkobichboakdfaeon/css/Roboto-Regular.ttf"); }</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/51/8/intl/es_419/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/51/8/intl/es_419/util.js"></script></head>
-    
-    <body>
-	
-<!-- Preloader -->
 <div class="loader" style="display: none;">
 		<!-- Preloader inner -->
   <div class="loader-inner" style="display: none;">
