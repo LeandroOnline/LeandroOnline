@@ -1,5 +1,4 @@
 ## <div align="center">Leandro Savat</div>
-<hr/>
 <div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
 Programming is a path that allows me to free creativity, organize thoughts and learn new knowledge. For this reason, I dedicate myself to being a web developer, since this work enhances my personal progress and I am passionate about it.
