@@ -49,10 +49,6 @@ Currently I specialize in Front end, in handling technologies such as HTML, CSS,
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=blackgg88&&style=flat-square" align="center" />
-</div>  
-
 
 <br/>
 
