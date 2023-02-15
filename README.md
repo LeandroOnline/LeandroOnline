@@ -1,6 +1,6 @@
-<div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
-
 ## <div align="center">Leandro Savat</div>
+<br/>
+<div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
 Programming is a path that allows me to free creativity, organize thoughts and learn new knowledge. For this reason, I dedicate myself to being a web developer, since this work enhances my personal progress and I am passionate about it.
 Currently I specialize in Front end, in handling technologies such as HTML, CSS, Javascript, React, Redux.
