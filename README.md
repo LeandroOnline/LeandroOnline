@@ -1,5 +1,4 @@
 <h2 align="center">Te doy la bienvenida a mi Github</h2>
-
 <h1 align="center">Leandro Savat</h1>
 <div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
