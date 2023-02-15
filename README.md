@@ -1,8 +1,8 @@
 ## <div align="center">Leandro Savat</div>
 <div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
-<h3>Desde los 11 años trabajé en la empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante mi viaje, conocí a programadores que avivaron mi interés por trabajar y conectarme con el mundo en línea. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
-Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</h3>
+<h4>Desde los 11 años trabajé en la empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante mi viaje, conocí a programadores que avivaron mi interés por trabajar y conectarme con el mundo en línea. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
+Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</h4>
 
 <br/>
 
