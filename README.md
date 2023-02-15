@@ -6,32 +6,25 @@ Currently I specialize in Front end, in handling technologies such as HTML, CSS,
 <br/>
 
 ## My Skill Set
+<a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png"/></a>
+<a href="https://redux.js.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/redux.png"/></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png"/></a>
+<a href="https://sequelize.org/" target="_blank"><img width="40px" src="https://s2.qwant.com/thumbr/0x380/f/1/def6e5a6cedacd5856251aeaef7e52119bf19a4f70ada987080f4a3db8e074/sequelize-logo-png-transparent.png?u=https%3A%2F%2Fcdn.freebiesupply.com%2Flogos%2Flarge%2F2x%2Fsequelize-logo-png-transparent.png&q=0&b=1&p=0&a=0"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png"/></a>
+<a href="https://mui.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/material-ui.png"/></a>
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+<a href="https://www.adobe.com/la/products/photoshop-lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png"/></a>
+<a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
+<a href="https://trello.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/trello.png"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
+<a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
-<div align="center">  
-<a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
-</div>
 
 <br/>
 
