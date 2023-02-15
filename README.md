@@ -1,13 +1,7 @@
 ## <div align="center">Leandro Savat</div>
 
-I'm a full stack developer, I'm more focused on web application development, but I'm always willing to face new challenges and learn in the
-but I'm always willing to face new challenges and learn in the
-process.
-
-I have a desire to grow professionally in search of learning,
-to add value wherever I am and to improve day by day, not only in the academic and labor
-academic and work environment but also in my formation as a person.
-person.
+Programming is a path that allows me to free creativity, organize thoughts and learn new knowledge. For this reason, I dedicate myself to being a web developer, since this work enhances my personal progress and I am passionate about it.
+Currently I specialize in Front end, in handling technologies such as HTML, CSS, Javascript, React, Redux.
 
 <br/>
 
@@ -44,10 +38,7 @@ person.
 ## Connect with me
 
 <div align="center">
-<a href="https://github.com/blackgg88" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/saul-paredes-03a22622b/" target="_blank">
+<a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -73,18 +64,3 @@ person.
 <br/>
 
 <br />
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-blackgg88/README.md at main · blackgg88/blackgg88 
