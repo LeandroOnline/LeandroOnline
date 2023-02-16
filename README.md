@@ -1,5 +1,5 @@
 <h1 align="center">Leandro Savat</h1>
-<div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
+<div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif"> </div>
 
  <h3>+800 horas de programación en prácticas y estudios. +10 años de experiencia como líder de empresa. Organización y desarrollo de tecnología con metodología Scrum. Desempeño con integridad y compromiso laboral. Soporte de una gran comunidad profesional. Resolución de problemas y aprendizaje autodidacta.</h3>
 
@@ -40,14 +40,3 @@
 Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</p>
 
 <div align="center"><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
-
-<br/>
-
-<br/>
-
-<br/>
-
-
-<br/>
-
-<br />
