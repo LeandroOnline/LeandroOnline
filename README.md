@@ -25,15 +25,15 @@
 <br/>
 
 ## Contacto
-<div style="grid-column-gap: 3rem;"><a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
+<a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
 <img height="50px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://wa.me/5493435267411" target="_blank">
 <img height="50px" src=https://i0.wp.com/chilitoconlimon.com/wp-content/uploads/2022/07/whatsapp-logo-.png?resize=770%2C274&ssl=1 alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<h3>leandrosavat@gmail.com</h3><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
 <br/>
 
 <h4>Mas sobre mi:</h4> <p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
 Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</p>
+<h3>leandrosavat@gmail.com</h3><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif">
