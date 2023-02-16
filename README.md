@@ -21,9 +21,6 @@
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png"/></a>
 <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png"/></a>
 
-
-<br/>
-
 ## Contacto
 <a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
 <img height="50px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -31,8 +28,6 @@
 <a href="https://wa.me/5493435267411" target="_blank">
 <img height="50px" src=https://i0.wp.com/chilitoconlimon.com/wp-content/uploads/2022/07/whatsapp-logo-.png?resize=770%2C274&ssl=1 alt=linkedin style="margin-bottom: 5px;" />
 </a><h3>leandrosavat@gmail.com</h3>
-
-<br/>
 
 ## Mas sobre mi: 
 <p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
