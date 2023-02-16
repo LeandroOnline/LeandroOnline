@@ -25,7 +25,7 @@
 <br/>
 
 ## Contacto
-<div style="grid-column-gap: 3rem"><a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
+<div style="grid-column-gap: 3rem;"><a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
 <img height="50px" src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="https://wa.me/5493435267411" target="_blank">
