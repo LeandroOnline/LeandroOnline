@@ -1,8 +1,8 @@
 <h1 align="center">Leandro Savat</h1>
+<div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif
+<h3>+10 años de experiencia como líder de empresa. Desarrollo Front-En"></div>
+d de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora en organización y desarrollo de tecnología con metodología scrum. Desempeño con integridad y compromiso laboral. Resolución de problemas y aprendizaje autodidacta.</h3>
 <div align="center"><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
-
-<h3>+10 años de experiencia como líder de empresa. Desarrollo Front-End de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora en organización y desarrollo de tecnología con metodología scrum. Desempeño con integridad y compromiso laboral. Resolución de problemas y aprendizaje autodidacta.</h3>
-
 ## My Skill Set
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
