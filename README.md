@@ -1,10 +1,7 @@
 <h1 align="center">Leandro Savat</h1>
 <div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
-<h3>+10 años de experiencia como líder de empresa, aportando innovación y modelo de negocio. Desarrollo de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora tanto en organización como en desarrollo de tecnología. Desempeño con integridad y compromiso laboral.</h3>
-
-<br/>
-<h4>Puedo aportar compromiso laboral, resolucion de problemas, aprendisaje autodidacta y colaboracion con organizaciones de scrum, </h4>
+<h3>+10 años de experiencia como líder de empresa. Desarrollo Front-End de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora tanto en organización como en desarrollo de tecnología. Desempeño con integridad y compromiso laboral. Resolución de problemas, aprendizaje autodidacta y colaboración con organizaciones de scrum.</h3>
 
 ## My Skill Set
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
