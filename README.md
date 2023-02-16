@@ -1,5 +1,5 @@
 <h1 align="center">Leandro Savat</h1>
-<div align="center"><img src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
+<div align="center"><img height="300px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
 <h3>+10 años de experiencia como líder de empresa. Desarrollo Front-End de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora en organización y desarrollo de tecnología con metodología scrum. Desempeño con integridad y compromiso laboral. Resolución de problemas y aprendizaje autodidacta.</h3>
 
