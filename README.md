@@ -24,11 +24,12 @@
 
 <br/>
 
-## Connect with me
-
-
+## Contacto
 <a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+<a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
+<img src=https://i0.wp.com/chilitoconlimon.com/wp-content/uploads/2022/07/whatsapp-logo-.png?resize=770%2C274&ssl=1 alt=linkedin style="margin-bottom: 5px;" />
 </a>  
  
 
