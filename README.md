@@ -6,6 +6,7 @@
 Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</h4>
 
 <br/>
+<h4>Puedo aportar compromiso laboral, resolucion de problemas independiente, colaboracion con organizaciones de scrum, </h4>
 
 ## My Skill Set
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
