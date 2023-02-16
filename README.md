@@ -1,8 +1,8 @@
 <h1 align="center">Leandro Savat</h1>
-<div align="center"><img height="200px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
+<div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
 <h3>+10 años de experiencia como líder de empresa. Desarrollo Front-En"></div>
 d de proyectos modernos enfocados en la renovación de servicios comerciales. Mentalidad emprendedora en organización y desarrollo de tecnología con metodología scrum. Desempeño con integridad y compromiso laboral. Resolución de problemas y aprendizaje autodidacta.</h3>
-<div align="center"><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
+
 ## My Skill Set
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
@@ -39,7 +39,7 @@ d de proyectos modernos enfocados en la renovación de servicios comerciales. Me
 <h4>Mas sobre mi:</h4> <p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
 Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</p>
 
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=blackgg88&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+<div align="center"><img height="200px" src="https://www.eshci.com/assets/img/GIF/collaboration.gif"></div>
 
 <br/>
 
