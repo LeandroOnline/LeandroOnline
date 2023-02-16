@@ -27,7 +27,7 @@
 </a>  
 <a href="https://wa.me/5493435267411" target="_blank">
 <img height="50px" src=https://i0.wp.com/chilitoconlimon.com/wp-content/uploads/2022/07/whatsapp-logo-.png?resize=770%2C274&ssl=1 alt=linkedin style="margin-bottom: 5px;" />
-</a><h4>leandrosavat@gmail.com</h4>
+</a><h4>- leandrosavat@gmail.com</h4>
 
 ## Mas sobre mi: 
 <p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
