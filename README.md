@@ -31,7 +31,7 @@
 <a href="https://wa.me/5493435267411" target="_blank">
 <img height="50px" src=https://i0.wp.com/chilitoconlimon.com/wp-content/uploads/2022/07/whatsapp-logo-.png?resize=770%2C274&ssl=1 alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<h3>leandrosavat@gmail.com</h3>
+<a>leandrosavat@gmail.com</a>
 
 <br/>
 
