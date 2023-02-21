@@ -30,6 +30,6 @@
 </a><h4>- leandrosavat@gmail.com</h4>
 
 ## Mas sobre mi: 
-<p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. Al regresar en 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
+<p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. En el 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
 Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</p>
 <div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif"> </div>
