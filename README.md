@@ -1,5 +1,4 @@
 <h1 align="center">Leandro Savat</h1>
-<div align="center"><img height="200px" src="https://media.licdn.com/dms/image/D4D16AQFpLvXEBTEw0A/profile-displaybackgroundimage-shrink_350_1400/0/1676663527925?e=1681948800&v=beta&t=0OEPZuUODazDMUxX-RXX7S0vIG0udaA66MIVEFPn_qo"> </div>
 
  <h3>+800 horas de programación en prácticas y estudios. Organización y desarrollo de tecnología con metodología Scrum. Desempeño con integridad y compromiso laboral. Soporte de una gran comunidad profesional. Resolución de problemas y aprendizaje autodidacta.</h3>
 
