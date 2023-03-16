@@ -30,6 +30,5 @@
 
 ## Mas sobre mi: 
 <a style="justify-content: center" href="https://docs.google.com/document/d/1DwzB3G5ETn7pWqkfKoc2vdY0rDa2Jqff6ZerDLpsR-Q/edit?usp=sharing">RESUMEN</a>
-<p>Desde los 11 años trabajo en mi empresa familiar de producciones audiovisuales, donde desarrollé una sólida ética profesional y compromiso laboral. Viajé por dos años, haciendo producciones y adquiriendo habilidades en inglés. Durante el viaje, conocí a programadores que despertaron mi interés por el trabajo coordinado y la conexión web con el mundo. En el 2021, me interesé en la programación de datos financieros que me llevo a conocer y enfocarme en la programación web.
-Actualmente me especializo en Front end, manejo tecnologias como HTML, CSS, JavaScript y React con metodologias agile como Scrum, a la vez estudio back-end con Node.js, Express, MongoDB y Docker.</p>
+<p>Me motiva la capacidad de brindar soluciones y ayudar a la humanidad a través de mi software, es una oportunidad para solucionar problemas frecuentes y optimizar procesos de negocios. Como desarrollador web, tengo la capacidad de marcar una diferencia significativa al contribuir con mis habilidades y conocimientos en línea.</p>
 <div align="center"><img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif"> </div>
