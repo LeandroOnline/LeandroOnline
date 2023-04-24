@@ -1,6 +1,6 @@
 <h1 align="center">Leandro Savat</h1>
 
- <h3>+800 horas de programación en prácticas y estudios. Organización y desarrollo de tecnología con metodología Scrum. Desempeño con integridad y compromiso laboral. Soporte de una gran comunidad profesional. Resolución de problemas y aprendizaje autodidacta.</h3>
+ <h3>+1000 horas de programación en prácticas y estudios. Organización y desarrollo de tecnología con metodología Scrum. Desempeño con integridad y compromiso laboral. Soporte de una gran comunidad profesional. Resolución de problemas y aprendizaje autodidacta.</h3>
 
 ## Mis Habilidades
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
