@@ -4,9 +4,9 @@
 <ul>
  <li>🖥️ www.savat.ar</li>
 <li>📚 +2000 hours of programming in academic and business projects.</li>
-<li>☑️ Organization and development of technology with Scrum and Git Flow methodology.</li>
-<li>☑️ Performance with integrity and work commitment.</li>
-<li>☑️ Problem solving and self-taught learning.</li>
+<li>Organization and development of technology with Scrum and Git Flow methodology. ☑️</li>
+<li>Performance with integrity and work commitment. ☑️</li>
+<li>Problem solving and self-taught learning. ☑️</li>
 </ul>
 
 ## Mis Habilidades
