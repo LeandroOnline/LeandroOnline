@@ -1,6 +1,12 @@
 <h1 align="center">Leandro Savat</h1>
 
- <h3>+2000 horas de programación en prácticas y estudios. Organización y desarrollo de tecnología con metodología Scrum. Desempeño con integridad y compromiso laboral. Soporte de una gran comunidad profesional. Resolución de problemas y aprendizaje autodidacta.</h3>
+ <h2>👋Hi ! I am a Full Stack Web Developer, and Web Engineering student at Tech, the Technological University of Mexico.</h2>
+<h3>🖥️ www.savat.ar
+📚 +2000 hours of programming in academic and business projects.
+☑️ Organization and development of technology with Scrum and Git Flow methodology.
+☑️ Performance with integrity and work commitment.
+☑️ Problem solving and self-taught learning.
+</h3>
 
 ## Mis Habilidades
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
