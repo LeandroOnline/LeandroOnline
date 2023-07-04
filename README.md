@@ -3,10 +3,10 @@
  <h2>👋Hi ! I am a Full Stack Web Developer, and Web Engineering student at Tech, the Technological University of Mexico.</h2>
 <ul>
  <li>🖥️ www.savat.ar</li>
-📚 +2000 hours of programming in academic and business projects.
-☑️ Organization and development of technology with Scrum and Git Flow methodology.
-☑️ Performance with integrity and work commitment.
-☑️ Problem solving and self-taught learning.
+<li>📚 +2000 hours of programming in academic and business projects.</li>
+<li>☑️ Organization and development of technology with Scrum and Git Flow methodology.</li>
+<li>☑️ Performance with integrity and work commitment.</li>
+<li>☑️ Problem solving and self-taught learning.</li>
 </ul>
 
 ## Mis Habilidades
