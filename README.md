@@ -1,5 +1,5 @@
 <h1 align="center">Leandro Savat</h1>
-<h1>I am an expert in Web Engineering with a background in Design and Architecture.</h1>>
+<h2>I am an expert in Web Engineering with a background in Design and Architecture.</h2>>
  <h3>🖥️ www.savat.ar</h3>
 <h3>My greatest passion in the field of technology is the ability to face challenges and create simple and innovative solutions to meet important needs.",
   "I like to constantly learn and push my limits, both professionally and personally. My path in programming began thanks to my constant desire to improve and my interest in discovering tools that would allow me to progress in both areas.",
