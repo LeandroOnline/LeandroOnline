@@ -1,13 +1,12 @@
 <h1 align="center">Leandro Savat</h1>
 
- <h2>👋Hi ! I am a Full Stack Web Developer, and Web Engineering student at Tech, the Technological University of Mexico.</h2>
-<ul>
  <li>🖥️ www.savat.ar</li>
-<li>📚 +2000 hours of programming in academic and business projects.</li>
+<li>I am an expert in Web Engineering with a background in Design and Architecture. My greatest passion in the field of technology is the ability to face challenges and create simple and innovative solutions to meet important needs.",
+  "I like to constantly learn and push my limits, both professionally and personally. My path in programming began thanks to my constant desire to improve and my interest in discovering tools that would allow me to progress in both areas.",
+  "Throughout my professional career, I have stood out for my leadership skills, my ability to work as a team, coordinate projects and optimize processes. Since I was 18 years old, I have been involved in the world of digital productions, leading an audiovisual production company where I provided photography, design and digital marketing services with development in different countries. This experience has allowed me to develop and refine my skills in these areas, bringing a comprehensive and multidisciplinary approach to my projects.</li>
 <li>Organization and development of technology with Scrum and Git Flow methodology. ☑️</li>
 <li>Performance with integrity and work commitment. ☑️</li>
 <li>Problem solving and self-taught learning. ☑️</li>
-</ul>
 
 <h2>Skills</h2>
 <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
