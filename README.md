@@ -4,7 +4,7 @@
 <p>Throughout my career, I've excelled in leadership, teamwork, project coordination, and process optimization. Since age 18, I've immersed myself in digital productions, spearheading an audiovisual production company. This venture allowed me to offer photography, design, and digital marketing services internationally, refining my skills and embracing a comprehensive, multidisciplinary approach to projects.</p>
 
 <h2>Skills</h2>
-<div align="center">
+<div>
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
     <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/></a>
