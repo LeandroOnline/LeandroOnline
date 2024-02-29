@@ -1,4 +1,4 @@
-<h2>Leandro Savat</h2>
+<h1>Leandro Savat</h1>
 <h3>www.savat.ar</h3>
 <h3>I specialize in Web Engineering with skills in Programming, UI-UX Design, and Product Management.</h3>
 <p>My passion lies in tackling challenges and crafting simple, innovative solutions to address critical needs in technology. I thrive on continuous learning and pushing boundaries, both professionally and personally. My journey into programming stemmed from a relentless drive for improvement and a curiosity to explore tools that facilitate progress in diverse areas.</p>
