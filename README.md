@@ -31,6 +31,8 @@
         <img height="50px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="gmail" style="margin-bottom: 5px;" />
     </a> 
 </div>
+
+
 <div align="center">
     <img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
 </div> 
