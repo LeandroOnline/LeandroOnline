@@ -36,11 +36,7 @@
 </br>
 <div align="center">
     <img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
-</div> 
+</div>
 
-//<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandroonline&show_icons=true&locale=en&layout=compact" alt="leandroonline" /></p>
-
-//<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandroonline&show_icons=true&locale=en" alt="leandroonline" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandroonline&" alt="leandroonline" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandroonline&" alt="leandroonline" /></p>
 
