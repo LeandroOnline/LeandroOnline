@@ -34,6 +34,6 @@
 </div>
 
 </br>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=leandroonline&card_width=600" alt="GitHub Streak" /></a>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandroonline&" alt="leandroonline" /></p>
 
