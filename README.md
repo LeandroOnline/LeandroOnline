@@ -34,9 +34,6 @@
 </div>
 
 </br>
-<div align="center">
-    <img height="300px" src="https://humanyze.com/wp-content/uploads/2020/11/Draft_03_01.gif">
-</div>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandroonline&" alt="leandroonline" /></p>
 
