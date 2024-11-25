@@ -14,11 +14,15 @@
 🔑 Career Highlights:  
 - Leadership, teamwork, and project coordination expertise.  
 - Spearheaded a successful audiovisual production company since age 18, offering photography, design, and digital marketing globally.  
-- Combines multidisciplinary approaches to deliver innovative solutions.  
-
+- Combines multidisciplinary approaches to deliver innovative solutions.
+  
+<p>My passion lies in tackling challenges and crafting simple, innovative solutions to address critical needs in technology. I thrive on continuous learning and pushing boundaries, both professionally and personally. My journey into programming stemmed from a relentless drive for improvement and a curiosity to explore tools that facilitate progress in diverse areas.</p>
+<p>Throughout my career, I've excelled in leadership, teamwork, project coordination, and process optimization. Since age 18, I've immersed myself in digital productions, spearheading an audiovisual production company. This venture allowed me to offer photography, design, and digital marketing services internationally, refining my skills and embracing a comprehensive, multidisciplinary approach to projects.</p>
 ---
 
 ## 🛠️ Skills  
+<p>My passion lies in tackling challenges and crafting simple, innovative solutions to address critical needs in technology. I thrive on continuous learning and pushing boundaries, both professionally and personally. My journey into programming stemmed from a relentless drive for improvement and a curiosity to explore tools that facilitate progress in diverse areas.</p>
+<p>Throughout my career, I've excelled in leadership, teamwork, project coordination, and process optimization. Since age 18, I've immersed myself in digital productions, spearheading an audiovisual production company. This venture allowed me to offer photography, design, and digital marketing services internationally, refining my skills and embracing a comprehensive, multidisciplinary approach to projects.</p>
 
 <div align="center">
 
