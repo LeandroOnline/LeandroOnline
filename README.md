@@ -7,22 +7,29 @@
 
 <h2>Skills</h2>
 <div>
-    <!-- Core Technologies -->
+    <!-- Nuevas Tecnologías -->
     <a href="https://reactjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
     <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="Next.js"/></a>
     <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS"/></a>
     <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://img.icons8.com/color/48/000000/zustand.png" alt="Zustand"/></a>
     <a href="https://canvasjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/canvas.png" alt="CanvasJS"/></a>
-    <!-- CMS and Cloud -->
     <a href="https://strapi.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/strapi.png" alt="Strapi"/></a>
     <a href="https://payloadcms.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/payload.png" alt="Payload CMS"/></a>
     <a href="https://console.cloud.google.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="Google Console"/></a>
     <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare"/></a>
-    <!-- Design and Collaboration -->
-    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/></a>
-    <a href="https://www.notion.so/" target="_blank"><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" alt="Notion"/></a>
     <a href="https://clarity.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/microsoft.png" alt="Microsoft Clarity"/></a>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/></a>
+    <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS"/></a>
+    <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML"/></a>
+    <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/></a>
+    <a href="https://expressjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express"/></a>
+    <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/></a>
+    <a href="https://www.npmjs.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/npm.png" alt="NPM"/></a>
+    <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma"/></a>
+    <a href="https://www.notion.so/es-es" target="_blank"><img width="40px" src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" alt="Notion"/></a>
+    <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub"/></a>
+    <a href="https://slack.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/slack.png" alt="Slack"/></a>
 </div>
 
 <h2>Contact</h2>
