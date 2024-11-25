@@ -42,11 +42,11 @@
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50"/></a>
 <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="50"/></a>
 <a href="https://www.adobe.com/products/lightroom.html" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Lightroom" width="50"/></a>
-<a href="https://www.algolia.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/algolia.png" alt="Algolia" width="50"/></a>
+<a href="https://www.algolia.com/" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDXg7aC-sIft3OLPN5O8rSUISAIKRRl1anw&s" alt="Algolia" width="50"/></a>
 <a href="https://www.cloudflare.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/cloudflare.png" alt="Cloudflare" width="50"/></a>
 <a href="https://wordpress.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/wordpress.png" alt="WordPress" width="50"/></a>
-<a href="https://www.pgadmin.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PgAdmin" width="50"/></a>
-<a href="https://jwt.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" width="50"/></a>
+<a href="https://www.pgadmin.org/" target="_blank"><img src="[https://img.icons8.com/color/48/000000/postgresql.png](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png)" alt="PgAdmin" width="50"/></a>
+<a href="https://jwt.io/" target="_blank"><img src="https://seeklogo.com/images/J/jwt-logo-65D86B4640-seeklogo.com.png" alt="JWT" width="50"/></a>
 <a href="https://postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="50"/></a>
 <a href="https://playwright.dev/" target="_blank"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="50"/></a>
 <a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711?s=280&v=4" alt="n8n" width="50"/></a>
