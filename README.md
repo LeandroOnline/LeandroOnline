@@ -64,13 +64,13 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/leandrosavat/" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" width="60"/>
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/linkedin_button_icon_151847.png" alt="LinkedIn" width="150"/>
     </a>
     <a href="https://wa.me/1234567890" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" alt="WhatsApp" width="60"/>
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png" alt="WhatsApp" width="150"/>
     </a>
     <a href="mailto:leandrosavat@gmail.com" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="Gmail" width="60"/>
+        <img src="https://cdn.icon-icons.com/icons2/2530/PNG/512/gmail_button_icon_151848.png" alt="Gmail" width="150"/>
     </a>
 </div>
 
