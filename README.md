@@ -27,7 +27,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS"/></a>
-<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://jobkaehenry.gallerycdn.vsassets.io/extensions/jobkaehenry/zustand-snippet/1.0.1/1682180336770/Microsoft.VisualStudio.Services.Icons.Default" alt="Zustand"/></a>
+<a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand"/></a>
 <a href="https://canvas.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656734305canva-app-icon.png" alt="CanvasJS" width="40"/></a>  
 <a href="https://strapi.io/" target="_blank"><img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="Strapi" width="40"/></a>  
 <a href="https://payloadcms.com/" target="_blank"><img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6609e72483b3cbc5f7631d49_Payload-Logo.svg" alt="Payload CMS" width="40"/></a>
