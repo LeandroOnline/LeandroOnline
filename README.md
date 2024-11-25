@@ -28,15 +28,15 @@
 <a href="https://nextjs.org/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/nextjs.png" alt="Next.js" width="50"/></a>
 <a href="https://tailwindcss.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" width="50"/></a>
 <a href="https://zustand-demo.pmnd.rs/" target="_blank"><img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" alt="Zustand" width="50"/></a>
-<a href="https://canvas.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656734305canva-app-icon.png" alt="CanvasJS" width="50"/></a>  
-<a href="https://strapi.io/" target="_blank"><img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="Strapi" width="50"/></a>  
-<a href="https://payloadcms.com/" target="_blank"><img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6609e72483b3cbc5f7631d49_Payload-Logo.svg" alt="Payload CMS" width="50"/></a>
 
 ### **Additional Tools**  
+<a href="https://strapi.io/" target="_blank"><img src="https://assets.super.so/e7c0f16c-8bd3-4c76-8075-4c86f986e1b2/uploads/favicon/9c68ae10-0a8a-4e3f-9084-3625b19df9cb.png" alt="Strapi" width="50"/></a>  
+<a href="https://payloadcms.com/" target="_blank"><img src="https://cdn.prod.website-files.com/5f15081919fdf673994ab5fd/6609e72483b3cbc5f7631d49_Payload-Logo.svg" alt="Payload CMS" width="50"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="50"/></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="50"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="50"/></a>
 <a href="https://www.notion.so/" target="_blank"><img src="https://cdn.iconscout.com/icon/free/png-256/notion-2296040-1911999.png" alt="Notion" width="50"/></a>
+<a href="https://canvas.com/" target="_blank"><img src="https://freelogopng.com/images/all_img/1656734305canva-app-icon.png" alt="CanvasJS" width="50"/></a> 
 <a href="https://github.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/github.png" alt="GitHub" width="50"/></a>
 <a href="https://www.figma.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="50"/></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="50"/></a>
@@ -48,8 +48,8 @@
 <a href="https://www.pgadmin.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/postgresql.png" alt="PgAdmin" width="50"/></a>
 <a href="https://jwt.io/" target="_blank"><img src="https://img.icons8.com/color/48/000000/jwt.png" alt="JWT" width="50"/></a>
 <a href="https://postman.com/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/postman-api.png" alt="Postman" width="50"/></a>
-<a href="https://playwright.dev/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/test-tube.png" alt="Playwright" width="50"/></a>
-<a href="https://n8n.io/" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/flow-chart.png" alt="n8n" width="50"/></a>
+<a href="https://playwright.dev/" target="_blank"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="Playwright" width="50"/></a>
+<a href="https://n8n.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45487711?s=280&v=4" alt="n8n" width="50"/></a>
 
 </div>
 
